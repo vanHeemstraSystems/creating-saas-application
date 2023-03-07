@@ -2,7 +2,28 @@
   "name": "topics",
   "children": [
     {
-      "name": "A",
+      "name": "Tech Stack",
+      "children": [
+        {
+          "name": "Build in-house, buy commercial, or use open source?",
+          "value": 50
+        },
+        {
+          "name": "Programming Language",
+          "value": 50
+        },
+        {
+          "name": "Server-side Framework",
+          "value": 50
+        },
+        {
+          "name": "Database",
+          "value": 50
+        },        
+      ]
+    },
+    {
+      "name": "Clean Code",
       "children": [
         {
           "name": "Placeholder",
@@ -11,7 +32,7 @@
       ]
     },
     {
-      "name": "B",
+      "name": "Scalability",
       "children": [
         {
           "name": "Placeholder",
@@ -20,16 +41,7 @@
       ]
     },
     {
-      "name": "C",
-      "children": [
-        {
-          "name": "Placeholder",
-          "value": 50
-        }
-      ]
-    },
-    {
-      "name": "D",
+      "name": "Software Delivery",
       "children": [
         {
           "name": "Cloud Computing",
