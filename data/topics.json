@@ -2,7 +2,7 @@
   "name": "topics",
   "children": [
     {
-      "name": "Application Programming Interfaces",
+      "name": "A",
       "children": [
         {
           "name": "Placeholder",
@@ -11,7 +11,7 @@
       ]
     },
     {
-      "name": "Automation",
+      "name": "B",
       "children": [
         {
           "name": "Placeholder",
@@ -20,7 +20,7 @@
       ]
     },
     {
-      "name": "CI/CD",
+      "name": "C",
       "children": [
         {
           "name": "Placeholder",
@@ -29,7 +29,7 @@
       ]
     },
     {
-      "name": "Computing",
+      "name": "D",
       "children": [
         {
           "name": "Cloud Computing",
@@ -38,70 +38,70 @@
       ]
     },
     {
-      "name": "Containerisation",
+      "name": "E",
       "children": [
         {
-          "name": "Docker",
+          "name": "E1",
           "value": 50
         },
         {
-          "name": "Kubernetes",
+          "name": "E2",
           "value": 50
         }
       ]
     },
     {
-      "name": "Infrastructure-as-Code",
+      "name": "F",
       "children": [
         {
-          "name": "Ansible",
+          "name": "F1",
           "value": 50
         },
         {
-          "name": "Terraform",
+          "name": "F2",
           "value": 50
         }
       ]
     },
     {
-      "name": "Pipelines",
+      "name": "G",
       "children": [
         {
-          "name": "A1",
+          "name": "G1",
           "value": 50
         }
       ]
     },
     {
-      "name": "Process Mining",
+      "name": "H",
       "children": [
         {
-          "name": "A1",
+          "name": "H1",
           "value": 50
         }
       ]
     },
     {
-      "name": "Programming",
+      "name": "I",
       "children": [
         {
-          "name": "JavaScript",
+          "name": "I1",
           "value": 50
         }
       ]
     },
     {
-      "name": "Security",
+      "name": "J",
       "children": [
         {
-          "name": "Cloud Security",
+          "name": "J1",
           "children": [
             {
-              "name": "Azure Cloud Security",
+              "name": "J1.1",
               "value": 50
             },
             {
-              "name": "Google Cloud Security",
+              "name": "J1.2",
               "url": "https://www.google.com",
               "value": 50            
             }
@@ -110,19 +110,19 @@
       ]
     },
     {
-      "name": "Testing",
+      "name": "K",
       "children": [
         {
-          "name": "B1",
+          "name": "K1",
           "value": 50
         }
       ]
     },
     {
-      "name": "Value-Chain Management",
+      "name": "L",
       "children": [
         {
-          "name": "A1",
+          "name": "L1",
           "value": 50
         }
       ]
